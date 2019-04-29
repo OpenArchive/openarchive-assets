@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="34px" viewBox="0 0 36 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>header/avatar/server</title>
+    <desc>Created with Sketch.</desc>
+    <g id="header/avatar/server" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval" fill="#9B9B9B" cx="18" cy="17" r="17"></circle>
+        <g id="iconmonstr-server-11" transform="translate(6.000000, 6.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M24,8 L0,8 L0,14 L24,14 L24,8 Z M2,12 L2.863,10 L4.138,10 L3.275,12 L2,12 Z M4.066,12 L4.929,10 L6.204,10 L5.341,12 L4.066,12 L4.066,12 Z M6.133,12 L6.996,10 L8.271,10 L7.407,12 L6.133,12 L6.133,12 Z M8.199,12 L9.062,10 L10.336,10 L9.473,12 L8.199,12 L8.199,12 Z M11.54,12 L10.266,12 L11.129,10 L12.404,10 L11.54,12 L11.54,12 Z M21,12 C20.448,12 20,11.552 20,11 C20,10.448 20.448,10 21,10 C21.553,10 22,10.448 22,11 C22,11.552 21.553,12 21,12 Z M24,16 L0,16 L0,22 L24,22 L24,16 Z M2,20 L2.863,18 L4.138,18 L3.275,20 L2,20 Z M4.066,20 L4.929,18 L6.204,18 L5.341,20 L4.066,20 L4.066,20 Z M6.133,20 L6.996,18 L8.271,18 L7.407,20 L6.133,20 L6.133,20 Z M8.199,20 L9.062,18 L10.336,18 L9.473,20 L8.199,20 L8.199,20 Z M11.54,20 L10.266,20 L11.129,18 L12.404,18 L11.54,20 L11.54,20 Z M21,20 C20.448,20 20,19.552 20,19 C20,18.448 20.448,18 21,18 C21.553,18 22,18.448 22,19 C22,19.552 21.553,20 21,20 Z M22,6 L2,6 L6,0 L18,0 L22,6 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
