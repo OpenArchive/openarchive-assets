@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>overrides/tab bar/icons/oa/batchedit</title>
+    <desc>Created with Sketch.</desc>
+    <g id="overrides/tab-bar/icons/oa/batchedit" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, 2.000000)" fill="#00B4A6">
+            <path d="M20.2727273,6.72779721 L22,5.05404415 L22,19 L20.2727273,19 L20.2727273,17.2727273 L20.2727273,6.72779721 Z M15.9806008,1.72727273 L4.72727273,1.72727273 L3,1.72727273 L3,0 L17.7631045,0 L15.9806008,1.72727273 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            <path d="M14.6526425,3 L12.8701388,4.72727273 L1.72727273,4.72727273 L1.72727273,20.2727273 L17.2727273,20.2727273 L17.2727273,9.62075788 L19,7.94700482 L19,22 L0,22 L0,3 L14.6526425,3 Z" id="Combined-Shape" fill-rule="nonzero"></path>
+            <polygon id="Path" points="7 12.1930177 7 15 9.92726606 15 21 4.80698235 18.0727339 2"></polygon>
+            <path d="M22.8007663,2.75351213 C23.0664112,2.48786718 23.0664112,2.0587484 22.8007663,1.79310345 L21.2068966,0.199233716 C20.9412516,-0.0664112388 20.5121328,-0.0664112388 20.2464879,0.199233716 L19,1.44572158 L21.5542784,4 L22.8007663,2.75351213 Z" id="Shape" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>
